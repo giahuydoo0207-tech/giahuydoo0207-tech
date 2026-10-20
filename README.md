@@ -27,6 +27,7 @@ Next.js, React, TypeScript, Tailwind CSS. Deployed on Vercel. Backend planned wi
 
 A project-portfolio platform for students and freelancers in any field: profiles, project showcases, and a community feed where businesses can browse work by industry.
 Next.js, TypeScript. In active development for a pilot with student users.
+[Live demo](https://grovelyn-web.vercel.app/community)
 
 ### [NIVEX Business](https://github.com/giahuydoo0207-tech/NIVEX-BUSINESS)
 
